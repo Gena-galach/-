@@ -28,7 +28,7 @@
 
 * отображение всех коммитов в графике
 ```sh
-git log --graph
+git log --one line --graph
 ```
 
 
